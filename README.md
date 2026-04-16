@@ -15,6 +15,8 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 
 ## Summary
 
+In this lab we created a binary and one-hot counter. A one hot counter is something that each bit (or in this case LED) represents a different number, meaning however many numbers you need to count to, you need LED's. A binary counter in contrast, only uses 2^x LED's to count, making it much more condensed but hards to implement. If you need 8 numbers, you only need three LED's etc. There was also a reset button, to reset out counter back to 0. There is also a counter button that with each press the counter goes up. LED's 1 and or 0 represent an alarm that goes off when the switch needs to be flipped to incrrement the counter more.
+
 ## Lab Questions
 
 ### Compare and contrast One Hot and Binary encodings
